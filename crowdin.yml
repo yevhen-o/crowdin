@@ -1,0 +1,5 @@
+files:
+  - source: src
+    ignore:
+      - ser
+    translation: /translations/%two_letters_code%/%original_file_name%
